@@ -1,12 +1,11 @@
+// my-app/src/app/(home)/page.tsx
 import Typography from '@mui/material/Typography';
 
 
 export default function Home() {
   return (
-  
-    <Typography variant="h5" gutterBottom>
-    Zivot
-  </Typography>
-  
+     
+    <Typography> Home page </Typography>
+
   );
 }
